@@ -40,10 +40,15 @@ Data management: Snowflake, Kafka, AWS, Python, SQL
 - Technologies: Snowflake, Kafka, Python, AWS, AI/ML.
 - Impact: Reduced fraud detection time by 70%.
 
-### 2. [Healthcare Predictive Analytics](./Projects/Healthcare-Predictive-Analytics/README.md)
+### 2. [Healthcare Kindney Disease Classification](./Projects/Healthcare-Predictive-Analytics/README.md)
 - Built a platform for patient outcome prediction using AI/ML.
 - Contribution: Defined product roadmap and collaborated with data scientists.
 - Impact: Improved predictive accuracy by 15%.
+
+### 3. [End to End Text Summarization](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 20%.
 
 ## 🛠️ Product Management Artifacts
 - [PRD Templates](./Product-Artifacts/PRD_Template.md)
