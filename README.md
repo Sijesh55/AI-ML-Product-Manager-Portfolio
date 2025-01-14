@@ -34,6 +34,75 @@ Tools & Platforms:		JIRA | Confluence | Tableau | Power BI | Figma | Google Anal
 AI/ML frameworks: TensorFlow, PyTorch, Scikit-learn
 Data management: Snowflake, Kafka, AWS, Python, SQL
 
+**Roles & Responsibilities**
+
+**Strategic Responsibilities**
+	1.Define Product Vision and Strategy:
+		Develop and articulate a clear vision for AI/ML-driven products.
+		Align the product roadmap with business goals and market needs.
+
+	2.Market Research and Competitive Analysis:
+		Understand market trends, customer pain points, and competitive landscape.
+		Identify opportunities to apply AI/ML to solve business problems.
+
+**AI/ML-Specific Responsibilities**
+	3.Problem Identification and Solution Framing:
+		Work closely with stakeholders to identify problems suitable for AI/ML solutions.
+		Translate business challenges into AI/ML problem statements and objectives.
+
+	4.Model Lifecycle Management:
+		Collaborate on data collection, preprocessing, and feature engineering.
+		Define success metrics for models and ensure their performance aligns with business needs.
+		Oversee the deployment, monitoring, and maintenance of AI models.
+		
+**Cross-Functional Collaboration**
+	5.Work with Data Science and Engineering Teams:
+		Communicate requirements clearly to data scientists and ML engineers.
+		Prioritize and manage technical tasks to align with business timelines.
+
+	6.Stakeholder Communication:
+		Act as a bridge between technical teams and non-technical stakeholders.
+		Simplify AI/ML concepts for executives and clients.
+	
+**Product Lifecycle Management**
+	7.Roadmap and Backlog Management:
+		Define, prioritize, and manage the AI/ML product backlog.
+		Ensure timely delivery of features and updates.
+
+	8.Iterative Development and Experimentation:
+		Support teams in running A/B tests, validating models, and iterating on findings.
+		Integrate user feedback to refine product features.
+
+**Ethics and Compliance**
+	9.Ethical AI Implementation:
+		Ensure AI/ML solutions are fair, transparent, and unbiased.
+		Advocate for explainable AI (XAI) and compliance with data privacy laws like GDPR.
+
+	10.Risk Management:
+		Identify risks in AI/ML deployments and implement mitigation strategies.
+	
+**Monitoring and Analytics**
+	11.Performance Tracking:
+		Define KPIs to measure the business impact of AI/ML products.
+		Use analytics tools to monitor product performance and user engagement.
+
+	12.Continuous Improvement:
+		Gather insights from analytics, user feedback, and market trends to enhance the product.
+
+**Business Impact and Monetization**
+	13.Revenue and ROI Focus:
+		Identify opportunities to monetize AI/ML features.
+		Ensure AI/ML solutions deliver measurable business value.
+
+	14.Go-to-Market Strategy:
+		Define and execute a launch strategy for AI/ML products.
+		Train sales and support teams to communicate the value of AI/ML features to customers.
+
+**Emerging Trends and Innovation**
+	15.Stay Updated with AI/ML Trends:
+		Keep up with advancements in AI/ML technologies and identify areas for innovation.
+		Attend conferences, webinars, and industry events to stay at the forefront of AI/ML.
+
 ## 🔗 Key Projects
 ### 1. [Real-Time Fraud Detection System](./Projects/Real-Time-Fraud-Detection/README.md)
 - Developed a scalable system for detecting fraudulent transactions in real-time.
