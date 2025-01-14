@@ -26,13 +26,18 @@ Let’s connect if you’re looking to collaborate or explore opportunities in A
 **Skills**
 
 Product Management:	Product Roadmap & Strategy | Product Execution | Market Research | Stakeholder Management | Agile Development | OKRs | GTM Strategy
+
 Technical Expertise:		Programming: Python | AI: ML, NLP, DL, Gen AI, LLM, Computer Vision | SQL | APIs
-Data & Cloud: Snowflake | AWS | GCP | Apache Kafka | Kubernetes | Jenkins | Apache Airflow
-Leadership & Collaboration:	Team Lead
-ership | Cross-functional Alignment | Stakeholder Engagement & Communication
+				Data & Cloud: Snowflake | AWS | GCP | Apache Kafka | Kubernetes | Jenkins | Apache Airflow
+    
+Leadership & Collaboration:	Team Leadership | Cross-functional Alignment | Stakeholder Engagement & Communication
+
 Project Methodology:		Agile | Scrum | Waterfall
+
 Tools & Platforms:		JIRA | Confluence | Tableau | Power BI | Figma | Google Analytics | Looker | Slack
+
 AI/ML frameworks: TensorFlow, PyTorch, Scikit-learn
+
 Data management: Snowflake, Kafka, AWS, Python, SQL
 
 **Roles & Responsibilities**
