@@ -6,7 +6,7 @@ Welcome to my AI/ML Product Manager Portfolio! With 15 years of experience in da
 ## Table of Contents
 1. [About Me](#about-me)
 2. [Skills](#skills) 
-3. [Roles & Responsibilities](#Roles & Responsibilities)
+3. [Roles & Responsibilities](#Roles-Responsibilities)
 4. [Featured Projects](#featured-projects)
 5. [Certifications](#certifications)
 6. [Contact](#contact)
