@@ -125,6 +125,45 @@ Data management: Snowflake, Kafka, AWS, Python, SQL
 - Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
 - Impact: Improved predictive accuracy by 20%.
 
+  ### 4. [Movie-Recommendation](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 15%.
+
+  ### 5. [Liver-Disease-prediction-by-using-PyCaret ](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 25%.
+
+  ### 6. [Chicken-Disease-Classification-Project  ](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 25%.
+
+  ### 7. [End-to-End-ML-Project-with-MLFlow  ](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 25%.
+
+  ### 8. [pneumonia-classification-web-app-python-streamlit-main  ](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 25%.+
+
+### 9. [python-streamlit-web-app-object-detection-main ](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 25%.
+
+### 10. [End-To-End-Deep-Learning-Master](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for Text summarization for the given sample text NLP.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: Improved predictive accuracy by 25%.
+
+  **Research**
+  Extract-Brain-Memories-Using-Eyes
+
+
 ## 🛠️ Product Management Artifacts
 - [PRD Templates](./Product-Artifacts/PRD_Template.md)
 - [AI/ML Product Roadmap](./Product-Artifacts/Roadmaps/ai_ml_product_roadmap.png)
