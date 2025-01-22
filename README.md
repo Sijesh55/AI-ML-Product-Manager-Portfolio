@@ -161,6 +161,12 @@ Data management: Snowflake, Kafka, AWS, Python, SQL
 - Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
 - Impact: Improved predictive accuracy by 20%.
 
+### 10. [End-To-End-Generative-AI-Project-Text_to_Image_Generation](./Projects/Healthcare-Predictive-Analytics/README.md)
+- Built a platform for End to End Generative AI project.
+- Done data integration from various source and preprocessed the data. select the appropriate model and implemented the model.
+- Contribution: Defined product roadmap and collaborated with Data Engineer, Business Stakeholders, Design Team, UI/UX Team, Data scientists.
+- Impact: High quality image generated.
+
   **Research**
   Extract-Brain-Memories-Using-Eyes
 
