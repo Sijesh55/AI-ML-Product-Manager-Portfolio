@@ -1,5 +1,5 @@
 
-# Sijesh Alayaril's AI/ML Product Manager, AI/ML Solution Architect Portfolio
+# Sijesh Alayaril's AI/ML Engineer, Product Manager, AI/ML Solution Architect Portfolio
 Portfolio showcasing AI/ML product management skills, projects, and achievements.
 Welcome to my AI/ML Product Manager Portfolio! With 15 years of experience in data engineering, product management, and AI/ML, I focus on driving innovative solutions that solve real-world problems in banking and healthcare.
 
